@@ -18,6 +18,8 @@
 
 이 레포지토리 내 모든 파일들은 "MIT" 라이선스를 따릅니다.
 
+`Copyright (c) 2022 Eggjini`
+
 - 이 허가는 누구에게나 무료로 주어진다.
 이 소프트웨어 및 관련 문서의 사본 획득
 파일(이하 "소프트웨어")을 사용하지 않고 
@@ -49,6 +51,8 @@
 2.  저자 또는 저작권자는 소프트웨어에 관해서 아무런 책임을 지지 않는다.
 
 ##### <라이선스 원문>
+`Copyright (c) 2022 Eggjini`
+
 ```Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
 files (the "Software"), to deal in the Software without
@@ -69,5 +73,3 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
-`Copyright (c) 2022 Eggjini`
